@@ -1,0 +1,10 @@
+C:\Users\loki\source\repos\2 задание\bin\Debug\2 задание.exe.config
+C:\Users\loki\source\repos\2 задание\bin\Debug\2 задание.exe
+C:\Users\loki\source\repos\2 задание\bin\Debug\2 задание.pdb
+C:\Users\loki\source\repos\2 задание\obj\Debug\2 задание.csproj.AssemblyReference.cache
+C:\Users\loki\source\repos\2 задание\obj\Debug\_2_задание.Form1.resources
+C:\Users\loki\source\repos\2 задание\obj\Debug\_2_задание.Properties.Resources.resources
+C:\Users\loki\source\repos\2 задание\obj\Debug\2 задание.csproj.GenerateResource.cache
+C:\Users\loki\source\repos\2 задание\obj\Debug\2 задание.csproj.CoreCompileInputs.cache
+C:\Users\loki\source\repos\2 задание\obj\Debug\2 задание.exe
+C:\Users\loki\source\repos\2 задание\obj\Debug\2 задание.pdb
