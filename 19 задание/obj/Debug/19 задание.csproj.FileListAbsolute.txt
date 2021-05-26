@@ -1,0 +1,7 @@
+C:\Users\loki\source\repos\19 задание\bin\Debug\19 задание.exe.config
+C:\Users\loki\source\repos\19 задание\bin\Debug\19 задание.exe
+C:\Users\loki\source\repos\19 задание\bin\Debug\19 задание.pdb
+C:\Users\loki\source\repos\19 задание\obj\Debug\19 задание.csproj.AssemblyReference.cache
+C:\Users\loki\source\repos\19 задание\obj\Debug\19 задание.csproj.CoreCompileInputs.cache
+C:\Users\loki\source\repos\19 задание\obj\Debug\19 задание.exe
+C:\Users\loki\source\repos\19 задание\obj\Debug\19 задание.pdb
