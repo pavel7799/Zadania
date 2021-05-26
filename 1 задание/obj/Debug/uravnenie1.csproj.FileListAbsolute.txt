@@ -1,0 +1,10 @@
+C:\Users\User_11\source\repos\uravnenie1\bin\Debug\uravnenie1.exe.config
+C:\Users\User_11\source\repos\uravnenie1\bin\Debug\uravnenie1.exe
+C:\Users\User_11\source\repos\uravnenie1\bin\Debug\uravnenie1.pdb
+C:\Users\User_11\source\repos\uravnenie1\obj\Debug\uravnenie1.csprojAssemblyReference.cache
+C:\Users\User_11\source\repos\uravnenie1\obj\Debug\uravnenie1.Form1.resources
+C:\Users\User_11\source\repos\uravnenie1\obj\Debug\uravnenie1.Properties.Resources.resources
+C:\Users\User_11\source\repos\uravnenie1\obj\Debug\uravnenie1.csproj.GenerateResource.cache
+C:\Users\User_11\source\repos\uravnenie1\obj\Debug\uravnenie1.csproj.CoreCompileInputs.cache
+C:\Users\User_11\source\repos\uravnenie1\obj\Debug\uravnenie1.exe
+C:\Users\User_11\source\repos\uravnenie1\obj\Debug\uravnenie1.pdb
